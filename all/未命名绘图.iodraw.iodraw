@@ -225,14 +225,20 @@
         <mxCell id="RXXmZKEUvQdM1Y8imSRT-58" value="扫描机身二维码" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="235" y="770" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="RXXmZKEUvQdM1Y8imSRT-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RXXmZKEUvQdM1Y8imSRT-61" target="RXXmZKEUvQdM1Y8imSRT-67">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="RXXmZKEUvQdM1Y8imSRT-61" value="反馈该设备已被绑定，若要绑定请先联系人进行解绑" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="699.9999999999998" y="720" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RXXmZKEUvQdM1Y8imSRT-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RXXmZKEUvQdM1Y8imSRT-63" target="RXXmZKEUvQdM1Y8imSRT-67">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RXXmZKEUvQdM1Y8imSRT-63" value="进行数据库记录 该设备被账号进行绑定" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="699.9999999999998" y="810" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RXXmZKEUvQdM1Y8imSRT-67" value="后续蓝牙操作与上方相同" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="820" y="738" width="160" height="30" as="geometry" />
+          <mxGeometry x="837" y="780" width="160" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
