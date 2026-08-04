@@ -26,7 +26,7 @@
         <mxCell id="RXXmZKEUvQdM1Y8imSRT-4" value="直接连接蓝牙" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="110" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="RXXmZKEUvQdM1Y8imSRT-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RXXmZKEUvQdM1Y8imSRT-5" value="切换网络" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="110" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
