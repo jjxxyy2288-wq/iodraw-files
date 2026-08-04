@@ -223,7 +223,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="RXXmZKEUvQdM1Y8imSRT-58" value="扫描机身二维码" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="235" y="670" width="120" height="60" as="geometry" />
+          <mxGeometry x="260" y="670" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RXXmZKEUvQdM1Y8imSRT-61" value="反馈该设备已被绑定，若要绑定请先联系人进行解绑" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="699.9999999999998" y="620" width="120" height="60" as="geometry" />
@@ -240,8 +240,8 @@
         <mxCell id="RXXmZKEUvQdM1Y8imSRT-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.563;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="RXXmZKEUvQdM1Y8imSRT-61" target="RXXmZKEUvQdM1Y8imSRT-67">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="RXXmZKEUvQdM1Y8imSRT-73" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="45" y="748" width="50" height="30" as="geometry" />
+        <mxCell id="RXXmZKEUvQdM1Y8imSRT-73" value="优点：不易被强绑&lt;div&gt;缺点：开发较为麻烦&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="5" y="743" width="130" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
