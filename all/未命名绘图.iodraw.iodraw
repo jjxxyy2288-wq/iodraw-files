@@ -45,6 +45,11 @@
             <mxPoint x="310" y="350" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="RXXmZKEUvQdM1Y8imSRT-17" value="初次连接" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="RXXmZKEUvQdM1Y8imSRT-15">
+          <mxGeometry x="0.2476" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="RXXmZKEUvQdM1Y8imSRT-10" value="app" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="20" y="320" width="120" height="60" as="geometry" />
         </mxCell>
@@ -52,7 +57,7 @@
           <mxGeometry x="150" y="410" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="RXXmZKEUvQdM1Y8imSRT-16" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="320" width="120" height="60" as="geometry" />
+          <mxGeometry x="310" y="320" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
