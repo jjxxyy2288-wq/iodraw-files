@@ -45,7 +45,7 @@
             <mxPoint x="310" y="350" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RXXmZKEUvQdM1Y8imSRT-17" value="初次连接" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="RXXmZKEUvQdM1Y8imSRT-15">
+        <mxCell id="RXXmZKEUvQdM1Y8imSRT-17" value="初次连接蓝牙" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="RXXmZKEUvQdM1Y8imSRT-15">
           <mxGeometry x="0.2476" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
