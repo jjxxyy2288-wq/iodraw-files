@@ -58,9 +58,9 @@
         <mxCell id="RXXmZKEUvQdM1Y8imSRT-10" value="app" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="20" y="320" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="RXXmZKEUvQdM1Y8imSRT-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RXXmZKEUvQdM1Y8imSRT-14">
+        <mxCell id="RXXmZKEUvQdM1Y8imSRT-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RXXmZKEUvQdM1Y8imSRT-14" target="RXXmZKEUvQdM1Y8imSRT-26">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="340" y="465" as="targetPoint" />
+            <mxPoint x="350" y="465" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="RXXmZKEUvQdM1Y8imSRT-25" value="可配对成功" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="RXXmZKEUvQdM1Y8imSRT-24">
@@ -86,6 +86,9 @@
         </mxCell>
         <mxCell id="RXXmZKEUvQdM1Y8imSRT-19" value="云端数据库中进行绑定" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="570" y="320" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RXXmZKEUvQdM1Y8imSRT-26" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="435" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
