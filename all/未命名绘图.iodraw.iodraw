@@ -92,14 +92,16 @@
             <mxPoint x="540" y="465" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="RXXmZKEUvQdM1Y8imSRT-30" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="RXXmZKEUvQdM1Y8imSRT-27">
+          <mxGeometry x="-0.2413" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="RXXmZKEUvQdM1Y8imSRT-26" value="更改内容时" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="390" y="442.5" width="110" height="45" as="geometry" />
         </mxCell>
         <mxCell id="RXXmZKEUvQdM1Y8imSRT-28" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="590" y="435" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="RXXmZKEUvQdM1Y8imSRT-29" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="515" y="448" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
