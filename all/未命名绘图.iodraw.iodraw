@@ -231,6 +231,9 @@
         <mxCell id="RXXmZKEUvQdM1Y8imSRT-63" value="进行数据库记录 该设备被账号进行绑定" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="699.9999999999998" y="810" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="RXXmZKEUvQdM1Y8imSRT-67" value="后续蓝牙操作与上方相同" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="820" y="738" width="160" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
