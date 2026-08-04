@@ -35,19 +35,16 @@
         <mxCell id="RXXmZKEUvQdM1Y8imSRT-9" value="绑定账号" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="20" y="268" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="RXXmZKEUvQdM1Y8imSRT-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RXXmZKEUvQdM1Y8imSRT-10" target="RXXmZKEUvQdM1Y8imSRT-12">
+        <mxCell id="RXXmZKEUvQdM1Y8imSRT-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RXXmZKEUvQdM1Y8imSRT-10" target="RXXmZKEUvQdM1Y8imSRT-14">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="210" y="460" as="targetPoint" />
+            <mxPoint x="209.9999999999999" y="430" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="RXXmZKEUvQdM1Y8imSRT-10" value="app" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="20" y="320" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="RXXmZKEUvQdM1Y8imSRT-12" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="150" y="430" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="RXXmZKEUvQdM1Y8imSRT-13" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="270" y="290" width="120" height="60" as="geometry" />
+        <mxCell id="RXXmZKEUvQdM1Y8imSRT-14" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="149.9999999999999" y="400" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
