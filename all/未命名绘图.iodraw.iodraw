@@ -95,9 +95,9 @@
             <mxPoint x="48" y="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RXXmZKEUvQdM1Y8imSRT-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RXXmZKEUvQdM1Y8imSRT-19">
+        <mxCell id="RXXmZKEUvQdM1Y8imSRT-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RXXmZKEUvQdM1Y8imSRT-19" target="RXXmZKEUvQdM1Y8imSRT-47">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="669.9999999999998" y="349.9999999999999" as="targetPoint" />
+            <mxPoint x="690" y="360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="RXXmZKEUvQdM1Y8imSRT-19" value="云端数据库中进行绑定" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -144,6 +144,9 @@
         </mxCell>
         <mxCell id="RXXmZKEUvQdM1Y8imSRT-43" value="判断登录用户是否为绑定该设备用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="850" y="442" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RXXmZKEUvQdM1Y8imSRT-47" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="639.9999999999998" y="329.9999999999999" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
