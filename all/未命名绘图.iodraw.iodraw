@@ -197,8 +197,24 @@
         <mxCell id="RXXmZKEUvQdM1Y8imSRT-56" value="app登录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="30" y="760" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="RXXmZKEUvQdM1Y8imSRT-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RXXmZKEUvQdM1Y8imSRT-58" target="RXXmZKEUvQdM1Y8imSRT-61">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="449.9999999999998" y="730" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RXXmZKEUvQdM1Y8imSRT-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RXXmZKEUvQdM1Y8imSRT-58" target="RXXmZKEUvQdM1Y8imSRT-63">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="459.9999999999998" y="850" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="RXXmZKEUvQdM1Y8imSRT-58" value="请求绑定接口 进行绑定" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="760" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RXXmZKEUvQdM1Y8imSRT-61" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="469.9999999999998" y="710" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RXXmZKEUvQdM1Y8imSRT-63" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="399.9999999999998" y="820" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
