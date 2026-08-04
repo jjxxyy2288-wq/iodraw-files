@@ -180,8 +180,16 @@
         <mxCell id="RXXmZKEUvQdM1Y8imSRT-55" value="扫码绑定" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="40" y="708" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="RXXmZKEUvQdM1Y8imSRT-56" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RXXmZKEUvQdM1Y8imSRT-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RXXmZKEUvQdM1Y8imSRT-56" target="RXXmZKEUvQdM1Y8imSRT-58">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="260" y="790" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RXXmZKEUvQdM1Y8imSRT-56" value="app登录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="30" y="760" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RXXmZKEUvQdM1Y8imSRT-58" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="760" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
