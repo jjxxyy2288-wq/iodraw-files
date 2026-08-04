@@ -105,20 +105,23 @@
         </mxCell>
         <mxCell id="RXXmZKEUvQdM1Y8imSRT-30" value="进行请求" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="RXXmZKEUvQdM1Y8imSRT-27">
           <mxGeometry x="-0.2413" relative="1" as="geometry">
-            <mxPoint x="47" y="-3" as="offset" />
+            <mxPoint x="33" y="2" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="RXXmZKEUvQdM1Y8imSRT-26" value="更改内容时" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="390" y="442.5" width="110" height="45" as="geometry" />
         </mxCell>
         <mxCell id="RXXmZKEUvQdM1Y8imSRT-28" value="读取携带登录信息发现不是绑定用户则返回更改失败" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="810" y="427.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="827" y="437.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RXXmZKEUvQdM1Y8imSRT-32" value="读取登录信息是登录用户返回更改成功" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="860" y="320" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="RXXmZKEUvQdM1Y8imSRT-39" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="640" y="435" width="120" height="60" as="geometry" />
+        <mxCell id="RXXmZKEUvQdM1Y8imSRT-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RXXmZKEUvQdM1Y8imSRT-39" target="RXXmZKEUvQdM1Y8imSRT-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RXXmZKEUvQdM1Y8imSRT-39" value="判断登录用户是否为绑定该设备用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="440" width="100" height="55" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
