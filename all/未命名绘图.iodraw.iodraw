@@ -113,7 +113,7 @@
         <mxCell id="RXXmZKEUvQdM1Y8imSRT-28" value="读取携带登录信息发现不是绑定用户则返回更改失败" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="590" y="435" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="RXXmZKEUvQdM1Y8imSRT-32" value="进行请求" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RXXmZKEUvQdM1Y8imSRT-32" value="读取登录信息是登录用户返回更改成功" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="860" y="320" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
