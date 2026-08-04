@@ -30,7 +30,7 @@
           <mxGeometry x="460" y="110" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RXXmZKEUvQdM1Y8imSRT-8" value="优点：方便直接，设计简单容易开发&lt;div&gt;缺点：只要有软件就可以进行切换进行蓝牙拦截&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="20" y="180" width="280" height="40" as="geometry" />
+          <mxGeometry x="20" y="210" width="280" height="40" as="geometry" />
         </mxCell>
         <mxCell id="RXXmZKEUvQdM1Y8imSRT-9" value="绑定账号" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="30" y="290" width="70" height="30" as="geometry" />
