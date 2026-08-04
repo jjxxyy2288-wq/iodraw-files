@@ -63,6 +63,11 @@
             <mxPoint x="340" y="465" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="RXXmZKEUvQdM1Y8imSRT-25" value="可配对成功" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="RXXmZKEUvQdM1Y8imSRT-24">
+          <mxGeometry x="-0.0574" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="RXXmZKEUvQdM1Y8imSRT-14" value="进行配对" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="150" y="440" width="110" height="50" as="geometry" />
         </mxCell>
