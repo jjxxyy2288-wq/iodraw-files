@@ -15,8 +15,19 @@
         <mxCell id="RXXmZKEUvQdM1Y8imSRT-2" value="当前" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="95" y="28" width="50" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="RXXmZKEUvQdM1Y8imSRT-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RXXmZKEUvQdM1Y8imSRT-4" target="RXXmZKEUvQdM1Y8imSRT-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RXXmZKEUvQdM1Y8imSRT-7" value="进行后续操作" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="RXXmZKEUvQdM1Y8imSRT-6">
+          <mxGeometry x="-0.0886" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="RXXmZKEUvQdM1Y8imSRT-4" value="直接连接蓝牙" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RXXmZKEUvQdM1Y8imSRT-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="110" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
