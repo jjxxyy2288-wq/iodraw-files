@@ -94,6 +94,11 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="RXXmZKEUvQdM1Y8imSRT-36" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="RXXmZKEUvQdM1Y8imSRT-31">
+          <mxGeometry x="0.4042" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="RXXmZKEUvQdM1Y8imSRT-19" value="云端数据库中进行绑定" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="570" y="320" width="130" height="60" as="geometry" />
         </mxCell>
@@ -113,7 +118,7 @@
         <mxCell id="RXXmZKEUvQdM1Y8imSRT-28" value="读取携带登录信息发现不是绑定用户则返回更改失败" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="590" y="435" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="RXXmZKEUvQdM1Y8imSRT-32" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RXXmZKEUvQdM1Y8imSRT-32" value="进行请求" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="790" y="320" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
