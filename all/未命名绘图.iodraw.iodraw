@@ -171,8 +171,8 @@
         <mxCell id="RXXmZKEUvQdM1Y8imSRT-50" value="在数据库中删除该用户绑定设备的数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="820" y="340" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="RXXmZKEUvQdM1Y8imSRT-53" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="969.9999999999998" y="339.9999999999999" width="120" height="60" as="geometry" />
+        <mxCell id="RXXmZKEUvQdM1Y8imSRT-53" value="设备可进行自由绑定" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1039.9999999999998" y="339.9999999999999" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
