@@ -177,8 +177,11 @@
         <mxCell id="RXXmZKEUvQdM1Y8imSRT-54" value="优点：绑定相对严格，蓝牙不会被随便一个人进行请求&lt;div&gt;缺点：开发相对麻烦，蓝牙最初绑定期间可能会被别人抢绑&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="15" y="633" width="340" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="RXXmZKEUvQdM1Y8imSRT-55" value="蓝牙绑定严格" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="25" y="708" width="100" height="30" as="geometry" />
+        <mxCell id="RXXmZKEUvQdM1Y8imSRT-55" value="扫码绑定" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="40" y="708" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RXXmZKEUvQdM1Y8imSRT-56" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="760" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
