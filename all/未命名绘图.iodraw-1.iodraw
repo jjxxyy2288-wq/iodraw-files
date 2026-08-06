@@ -21,11 +21,19 @@
         <mxCell id="BSKw8UmsWC-0jzomOloO-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BSKw8UmsWC-0jzomOloO-3" target="BSKw8UmsWC-0jzomOloO-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="BSKw8UmsWC-0jzomOloO-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BSKw8UmsWC-0jzomOloO-3" target="BSKw8UmsWC-0jzomOloO-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="320" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="BSKw8UmsWC-0jzomOloO-3" value="用户端接收到开启新手教程" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="190" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BSKw8UmsWC-0jzomOloO-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BSKw8UmsWC-0jzomOloO-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="320" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
