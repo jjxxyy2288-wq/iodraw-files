@@ -41,7 +41,7 @@
         </mxCell>
         <mxCell id="BSKw8UmsWC-0jzomOloO-13" value="一分钟倒计时结束后" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="BSKw8UmsWC-0jzomOloO-11">
           <mxGeometry x="0.1837" relative="1" as="geometry">
-            <mxPoint y="-30" as="offset" />
+            <mxPoint y="-40" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="BSKw8UmsWC-0jzomOloO-9" value="解释每个按键 且必须完成操作 按键监听是否完成了相应的操作 比如左转右转 需收集意见 做出相应修改" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
