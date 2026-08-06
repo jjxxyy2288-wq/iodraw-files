@@ -18,9 +18,6 @@
         <mxCell id="BSKw8UmsWC-0jzomOloO-2" value="准备模式流程" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry y="68" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BSKw8UmsWC-0jzomOloO-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BSKw8UmsWC-0jzomOloO-3" target="BSKw8UmsWC-0jzomOloO-5">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="BSKw8UmsWC-0jzomOloO-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BSKw8UmsWC-0jzomOloO-3" target="BSKw8UmsWC-0jzomOloO-9">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="320" y="320" as="targetPoint" />
@@ -34,7 +31,7 @@
         <mxCell id="BSKw8UmsWC-0jzomOloO-3" value="用户端接收到开启新手教程" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="190" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BSKw8UmsWC-0jzomOloO-5" value="&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="BSKw8UmsWC-0jzomOloO-5" value="按钮状态变为" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="190" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BSKw8UmsWC-0jzomOloO-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BSKw8UmsWC-0jzomOloO-9" target="BSKw8UmsWC-0jzomOloO-5">
@@ -44,7 +41,7 @@
         </mxCell>
         <mxCell id="BSKw8UmsWC-0jzomOloO-13" value="一分钟倒计时结束后" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="BSKw8UmsWC-0jzomOloO-11">
           <mxGeometry x="0.1837" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint y="-30" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="BSKw8UmsWC-0jzomOloO-9" value="解释每个按键 且必须完成操作 按键监听是否完成了相应的操作 比如左转右转 需收集意见 做出相应修改" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
