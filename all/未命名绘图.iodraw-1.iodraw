@@ -7,8 +7,11 @@
         <mxCell id="BSKw8UmsWC-0jzomOloO-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="20" y="190" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BSKw8UmsWC-0jzomOloO-2" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="25" y="68" width="50" height="30" as="geometry" />
+        <mxCell id="BSKw8UmsWC-0jzomOloO-2" value="准备模式流程" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry y="68" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BSKw8UmsWC-0jzomOloO-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="400" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
