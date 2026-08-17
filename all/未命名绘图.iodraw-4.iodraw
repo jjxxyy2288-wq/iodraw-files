@@ -31,7 +31,7 @@
             <mxPoint x="490" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="N0Hi431x7efcVSrOHmaA-11" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="N0Hi431x7efcVSrOHmaA-8">
+        <mxCell id="N0Hi431x7efcVSrOHmaA-11" value="仅进行血量结算 不再进行积分计算" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="N0Hi431x7efcVSrOHmaA-8">
           <mxGeometry x="-0.3308" y="3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
