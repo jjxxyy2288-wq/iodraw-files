@@ -31,14 +31,16 @@
             <mxPoint x="490" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="N0Hi431x7efcVSrOHmaA-11" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="N0Hi431x7efcVSrOHmaA-8">
+          <mxGeometry x="-0.3308" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="N0Hi431x7efcVSrOHmaA-7" value="管理端" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="250" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="N0Hi431x7efcVSrOHmaA-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="430" y="250" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="N0Hi431x7efcVSrOHmaA-10" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="235" y="258" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
