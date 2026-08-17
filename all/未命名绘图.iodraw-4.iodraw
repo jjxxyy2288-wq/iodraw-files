@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="fCOsK-bt3qjeTf07wfCQ">
-    <mxGraphModel dx="1434" dy="836" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="298" dy="388" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -11,7 +11,7 @@
         </mxCell>
         <mxCell id="N0Hi431x7efcVSrOHmaA-5" value="进行积分结算 并端口广播" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="N0Hi431x7efcVSrOHmaA-2">
           <mxGeometry x="-0.3143" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="17" y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="N0Hi431x7efcVSrOHmaA-1" value="管理端" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -40,7 +40,7 @@
           <mxGeometry x="50" y="250" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="N0Hi431x7efcVSrOHmaA-9" value="用户端" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="530" y="250" width="120" height="60" as="geometry" />
+          <mxGeometry x="500" y="250" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
