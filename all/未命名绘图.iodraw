@@ -1,0 +1,185 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
+  <diagram name="第 1 页" id="VxX9IJbmLZWJ3F9fSJ4Q">
+    <mxGraphModel dx="3088" dy="836" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="vLUI-VOYE2ICXRYmLSak-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="pQxBeEVQXxaLmX6Jfq0b-1" target="vLUI-VOYE2ICXRYmLSak-2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-760" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vLUI-VOYE2ICXRYmLSak-3" value="C++程序通过usb串口来控制狗（使用udp指定狗的固定网口ip）" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="vLUI-VOYE2ICXRYmLSak-1" vertex="1" connectable="0">
+          <mxGeometry x="-0.0622" y="1" relative="1" as="geometry">
+            <mxPoint x="11" y="-17" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vLUI-VOYE2ICXRYmLSak-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="pQxBeEVQXxaLmX6Jfq0b-1" target="vLUI-VOYE2ICXRYmLSak-5" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-760" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vLUI-VOYE2ICXRYmLSak-6" value="python程序通过串口进行控制" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="vLUI-VOYE2ICXRYmLSak-4" vertex="1" connectable="0">
+          <mxGeometry x="-0.1333" y="-1" relative="1" as="geometry">
+            <mxPoint x="31" y="14" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vLUI-VOYE2ICXRYmLSak-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-700" y="200" as="sourcePoint" />
+            <mxPoint x="-520" y="250" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-700" y="210" />
+              <mxPoint x="-640" y="210" />
+              <mxPoint x="-640" y="250" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vLUI-VOYE2ICXRYmLSak-21" value="mqtt" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="vLUI-VOYE2ICXRYmLSak-14" vertex="1" connectable="0">
+          <mxGeometry x="0.2087" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vLUI-VOYE2ICXRYmLSak-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="pQxBeEVQXxaLmX6Jfq0b-1" target="vLUI-VOYE2ICXRYmLSak-12" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-610" y="170" />
+              <mxPoint x="-610" y="110" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vLUI-VOYE2ICXRYmLSak-30" value="机械臂推流" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="vLUI-VOYE2ICXRYmLSak-15" vertex="1" connectable="0">
+          <mxGeometry x="0.538" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vLUI-VOYE2ICXRYmLSak-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="vLUI-VOYE2ICXRYmLSak-13" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-700" y="195" as="sourcePoint" />
+            <mxPoint x="-510" y="220" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-500" y="195" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vLUI-VOYE2ICXRYmLSak-20" value="mqtt" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="vLUI-VOYE2ICXRYmLSak-19" vertex="1" connectable="0">
+          <mxGeometry x="-0.1101" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pQxBeEVQXxaLmX6Jfq0b-1" value="3576开发板" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-820" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vLUI-VOYE2ICXRYmLSak-2" value="狗" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-800" y="30" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vLUI-VOYE2ICXRYmLSak-5" value="机械臂" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-805" y="280" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vLUI-VOYE2ICXRYmLSak-25" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.973;exitY=0.202;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-399.9999999999998" y="112.12" as="sourcePoint" />
+            <mxPoint x="-213.4266666666665" y="150" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-213" y="112" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vLUI-VOYE2ICXRYmLSak-37" value="视频端口设8888" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="vLUI-VOYE2ICXRYmLSak-25" vertex="1" connectable="0">
+          <mxGeometry x="-0.3965" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vLUI-VOYE2ICXRYmLSak-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" parent="1" source="vLUI-VOYE2ICXRYmLSak-12" target="vLUI-VOYE2ICXRYmLSak-24" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vLUI-VOYE2ICXRYmLSak-38" value="视频端口8889" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="vLUI-VOYE2ICXRYmLSak-27" vertex="1" connectable="0">
+          <mxGeometry x="-0.6131" y="-1" relative="1" as="geometry">
+            <mxPoint x="27" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vLUI-VOYE2ICXRYmLSak-12" value="livekit/p2p信令视频服务器" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-520" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vLUI-VOYE2ICXRYmLSak-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.978;exitY=0.683;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="vLUI-VOYE2ICXRYmLSak-13" target="vLUI-VOYE2ICXRYmLSak-24" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-370" y="260" as="sourcePoint" />
+            <mxPoint x="-250" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vLUI-VOYE2ICXRYmLSak-32" value="webscoket" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="vLUI-VOYE2ICXRYmLSak-26" vertex="1" connectable="0">
+          <mxGeometry x="-0.3693" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vLUI-VOYE2ICXRYmLSak-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="vLUI-VOYE2ICXRYmLSak-13" target="vLUI-VOYE2ICXRYmLSak-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vLUI-VOYE2ICXRYmLSak-41" value="通知进行推流接取或信令交换" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="vLUI-VOYE2ICXRYmLSak-40" vertex="1" connectable="0">
+          <mxGeometry x="0.1543" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vLUI-VOYE2ICXRYmLSak-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-500" y="420" as="targetPoint" />
+            <mxPoint x="-500" y="270" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vLUI-VOYE2ICXRYmLSak-13" value="用户/控制服务器" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-520" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vLUI-VOYE2ICXRYmLSak-16" value="通过板子" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-720" y="100" as="sourcePoint" />
+            <mxPoint x="-720" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vLUI-VOYE2ICXRYmLSak-17" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.833;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="pQxBeEVQXxaLmX6Jfq0b-1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-720" y="250" as="sourcePoint" />
+            <mxPoint x="-715" y="190" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vLUI-VOYE2ICXRYmLSak-18" value="通过板子" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="vLUI-VOYE2ICXRYmLSak-17" vertex="1" connectable="0">
+          <mxGeometry x="0.1186" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vLUI-VOYE2ICXRYmLSak-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-700" y="180" as="sourcePoint" />
+            <mxPoint x="-520" y="140" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-600" y="180" />
+              <mxPoint x="-600" y="140" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vLUI-VOYE2ICXRYmLSak-29" value="狗推流" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="vLUI-VOYE2ICXRYmLSak-23" vertex="1" connectable="0">
+          <mxGeometry x="0.5616" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vLUI-VOYE2ICXRYmLSak-24" value="桌面端&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-280" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vLUI-VOYE2ICXRYmLSak-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="vLUI-VOYE2ICXRYmLSak-33" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-330" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vLUI-VOYE2ICXRYmLSak-33" value="控制发送大概内容" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-390" y="260" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vLUI-VOYE2ICXRYmLSak-36" value="{dx:x,dy:x,dy:x,ax:x,ay:x,az:x,ap:x,ar:x}" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-445" y="320" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vLUI-VOYE2ICXRYmLSak-43" value="根据sn判断设备类型来确认接收连接" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-615" y="420" width="220" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
