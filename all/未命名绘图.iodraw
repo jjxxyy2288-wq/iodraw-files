@@ -174,7 +174,7 @@
           <mxGeometry x="-390" y="260" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vLUI-VOYE2ICXRYmLSak-36" value="{dx:x,dy:x,dy:x,ax:x,ay:x,az:x,ap:x,ar:x}" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-445" y="320" width="230" height="30" as="geometry" />
+          <mxGeometry x="-430" y="320" width="230" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vLUI-VOYE2ICXRYmLSak-43" value="根据sn判断设备类型来确认接收连接" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-615" y="420" width="220" height="30" as="geometry" />
