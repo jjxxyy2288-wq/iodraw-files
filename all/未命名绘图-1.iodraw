@@ -193,6 +193,11 @@
         <mxCell id="JaqNhmoPE7T_h5MPj5I2-4" value="上装1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1560" y="350" width="100" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="JaqNhmoPE7T_h5MPj5I2-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JaqNhmoPE7T_h5MPj5I2-5" target="JaqNhmoPE7T_h5MPj5I2-30">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1230" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="JaqNhmoPE7T_h5MPj5I2-5" value="安卓设备" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1290" y="540" width="120" height="60" as="geometry" />
         </mxCell>
@@ -274,6 +279,9 @@
             <mxPoint x="-1380" y="670" as="sourcePoint" />
             <mxPoint x="-1330" y="620" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="JaqNhmoPE7T_h5MPj5I2-30" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-1260" y="460" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
