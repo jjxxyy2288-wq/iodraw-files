@@ -308,10 +308,10 @@
         <mxCell id="JaqNhmoPE7T_h5MPj5I2-30" value="策略：在安卓设备种头环和设备进行绑定" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-1305" y="375" width="150" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="JaqNhmoPE7T_h5MPj5I2-41" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="JaqNhmoPE7T_h5MPj5I2-44" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-1300" y="570" as="sourcePoint" />
-            <mxPoint x="-1240" y="530" as="targetPoint" />
+            <mxPoint x="-1380" y="730" as="sourcePoint" />
+            <mxPoint x="-1370" y="840" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
