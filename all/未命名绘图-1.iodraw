@@ -317,6 +317,12 @@
         <mxCell id="JaqNhmoPE7T_h5MPj5I2-45" value="建立六个udp单播" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-1430" y="840" width="120" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="JaqNhmoPE7T_h5MPj5I2-46" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.067;exitY=0.933;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="JaqNhmoPE7T_h5MPj5I2-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-1390" y="310" as="sourcePoint" />
+            <mxPoint x="-1450" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
