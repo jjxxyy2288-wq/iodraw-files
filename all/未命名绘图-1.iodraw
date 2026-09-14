@@ -193,6 +193,11 @@
         <mxCell id="JaqNhmoPE7T_h5MPj5I2-4" value="上装1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1560" y="350" width="100" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="JaqNhmoPE7T_h5MPj5I2-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JaqNhmoPE7T_h5MPj5I2-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1450" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="JaqNhmoPE7T_h5MPj5I2-5" value="安卓设备" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1290" y="540" width="120" height="60" as="geometry" />
         </mxCell>
