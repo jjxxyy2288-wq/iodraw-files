@@ -224,7 +224,7 @@
         <mxCell id="JaqNhmoPE7T_h5MPj5I2-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JaqNhmoPE7T_h5MPj5I2-13" target="JaqNhmoPE7T_h5MPj5I2-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JaqNhmoPE7T_h5MPj5I2-20" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="JaqNhmoPE7T_h5MPj5I2-17">
+        <mxCell id="JaqNhmoPE7T_h5MPj5I2-20" value="蓝牙2" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="JaqNhmoPE7T_h5MPj5I2-17">
           <mxGeometry x="-0.0444" y="3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -251,6 +251,9 @@
           <mxGeometry x="-0.0338" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="JaqNhmoPE7T_h5MPj5I2-21" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-1145" y="638" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
