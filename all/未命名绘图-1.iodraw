@@ -179,8 +179,11 @@
         <mxCell id="vLUI-VOYE2ICXRYmLSak-43" value="根据sn判断设备类型来确认接收连接" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-615" y="420" width="220" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="JaqNhmoPE7T_h5MPj5I2-1" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-1175" y="498" width="50" height="30" as="geometry" />
+        <mxCell id="JaqNhmoPE7T_h5MPj5I2-1" value="wifii" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-1350" y="260" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JaqNhmoPE7T_h5MPj5I2-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1610" y="380" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
