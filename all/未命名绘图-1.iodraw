@@ -280,8 +280,8 @@
             <mxPoint x="-1330" y="620" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JaqNhmoPE7T_h5MPj5I2-30" value="策略：头环和设备" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-1260" y="460" width="60" height="30" as="geometry" />
+        <mxCell id="JaqNhmoPE7T_h5MPj5I2-30" value="策略：在安卓设备种头环和设备进行绑定" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-1305" y="375" width="150" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
