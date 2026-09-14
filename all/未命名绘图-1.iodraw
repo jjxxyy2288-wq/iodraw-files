@@ -198,14 +198,25 @@
         </mxCell>
         <mxCell id="JaqNhmoPE7T_h5MPj5I2-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JaqNhmoPE7T_h5MPj5I2-7" target="JaqNhmoPE7T_h5MPj5I2-8">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-1500" y="410" as="targetPoint" />
+            <mxPoint x="-1510" y="560" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JaqNhmoPE7T_h5MPj5I2-7" value="dog1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1550" y="430" width="100" height="50" as="geometry" />
+          <mxGeometry x="-1560" y="580" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="JaqNhmoPE7T_h5MPj5I2-8" value="上装1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1550" y="360" width="100" height="50" as="geometry" />
+          <mxGeometry x="-1560" y="510" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="JaqNhmoPE7T_h5MPj5I2-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JaqNhmoPE7T_h5MPj5I2-10" target="JaqNhmoPE7T_h5MPj5I2-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1510" y="710" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JaqNhmoPE7T_h5MPj5I2-10" value="dog1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1560" y="730" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="JaqNhmoPE7T_h5MPj5I2-11" value="上装1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1560" y="660" width="100" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
