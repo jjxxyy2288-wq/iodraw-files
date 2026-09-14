@@ -280,7 +280,7 @@
             <mxPoint x="-1330" y="620" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JaqNhmoPE7T_h5MPj5I2-30" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="JaqNhmoPE7T_h5MPj5I2-30" value="策略：头环和设备" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-1260" y="460" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
