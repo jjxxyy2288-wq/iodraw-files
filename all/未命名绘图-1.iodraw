@@ -201,10 +201,10 @@
             <mxPoint x="-1510" y="560" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JaqNhmoPE7T_h5MPj5I2-7" value="dog1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JaqNhmoPE7T_h5MPj5I2-7" value="dog2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1560" y="580" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="JaqNhmoPE7T_h5MPj5I2-8" value="上装1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JaqNhmoPE7T_h5MPj5I2-8" value="上装2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1560" y="510" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="JaqNhmoPE7T_h5MPj5I2-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JaqNhmoPE7T_h5MPj5I2-10" target="JaqNhmoPE7T_h5MPj5I2-11">
