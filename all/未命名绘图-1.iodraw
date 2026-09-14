@@ -221,8 +221,11 @@
         <mxCell id="JaqNhmoPE7T_h5MPj5I2-12" value="头环1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1050" y="380" width="80" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="JaqNhmoPE7T_h5MPj5I2-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JaqNhmoPE7T_h5MPj5I2-13" target="JaqNhmoPE7T_h5MPj5I2-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="JaqNhmoPE7T_h5MPj5I2-13" value="头环2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1050" y="545" width="80" height="40" as="geometry" />
+          <mxGeometry x="-1050" y="550" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JaqNhmoPE7T_h5MPj5I2-14" value="头环3" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1050" y="690" width="80" height="40" as="geometry" />
