@@ -308,14 +308,17 @@
         <mxCell id="JaqNhmoPE7T_h5MPj5I2-30" value="策略：在安卓设备种头环和设备进行绑定" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-1305" y="375" width="150" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="JaqNhmoPE7T_h5MPj5I2-41" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="JaqNhmoPE7T_h5MPj5I2-41" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="JaqNhmoPE7T_h5MPj5I2-5" target="JaqNhmoPE7T_h5MPj5I2-8">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-1300" y="570" as="sourcePoint" />
             <mxPoint x="-1240" y="530" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JaqNhmoPE7T_h5MPj5I2-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="JaqNhmoPE7T_h5MPj5I2-5" target="JaqNhmoPE7T_h5MPj5I2-5">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="JaqNhmoPE7T_h5MPj5I2-43" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-1280" y="574" as="sourcePoint" />
+            <mxPoint x="-1530" y="550" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
