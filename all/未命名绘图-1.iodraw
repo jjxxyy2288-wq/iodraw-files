@@ -289,7 +289,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JaqNhmoPE7T_h5MPj5I2-35" value="蓝牙1 发送控制 向这和设备进行单播" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="JaqNhmoPE7T_h5MPj5I2-26">
+        <mxCell id="JaqNhmoPE7T_h5MPj5I2-35" value="蓝牙2发送控制 向这和设备进行单播" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="JaqNhmoPE7T_h5MPj5I2-26">
           <mxGeometry x="0.215" y="-1" relative="1" as="geometry">
             <mxPoint x="12" y="-2" as="offset" />
           </mxGeometry>
