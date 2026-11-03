@@ -12,6 +12,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="nHfjSOK1dLH2ZIQJxXir-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="nHfjSOK1dLH2ZIQJxXir-1" target="nHfjSOK1dLH2ZIQJxXir-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="760" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="nHfjSOK1dLH2ZIQJxXir-1" value="管理端" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="10" y="120" width="120" height="60" as="geometry" />
         </mxCell>
