@@ -65,9 +65,10 @@
         <mxCell id="nHfjSOK1dLH2ZIQJxXir-3" value="ESP32" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="154" y="520" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="nHfjSOK1dLH2ZIQJxXir-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#0050ef;strokeColor=#001DBC;" edge="1" parent="1" source="nHfjSOK1dLH2ZIQJxXir-4">
+        <mxCell id="nHfjSOK1dLH2ZIQJxXir-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#0050ef;strokeColor=#001DBC;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="30" y="100" as="targetPoint" />
+            <mxPoint x="30" y="10" as="targetPoint" />
+            <mxPoint x="154" y="560" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="nHfjSOK1dLH2ZIQJxXir-18" value="&lt;font color=&quot;#3399ff&quot;&gt;UDP广播&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="nHfjSOK1dLH2ZIQJxXir-17">
