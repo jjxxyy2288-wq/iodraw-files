@@ -110,6 +110,9 @@
             <mxPoint x="164" y="151" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="nHfjSOK1dLH2ZIQJxXir-23" value="&lt;font color=&quot;#3399ff&quot;&gt;UDP广播&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="69.99638580698752" y="450.0045813356672" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
