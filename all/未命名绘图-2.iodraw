@@ -4,11 +4,26 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="nHfjSOK1dLH2ZIQJxXir-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="nHfjSOK1dLH2ZIQJxXir-1" target="nHfjSOK1dLH2ZIQJxXir-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="160" y="150" />
+              <mxPoint x="160" y="350" />
+              <mxPoint x="140" y="350" />
+              <mxPoint x="140" y="565" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="nHfjSOK1dLH2ZIQJxXir-1" value="管理端" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="10" y="120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nHfjSOK1dLH2ZIQJxXir-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="nHfjSOK1dLH2ZIQJxXir-2" target="nHfjSOK1dLH2ZIQJxXir-3">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="140" y="350" />
+              <mxPoint x="140" y="565" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="nHfjSOK1dLH2ZIQJxXir-2" value="用户端" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry y="320" width="120" height="60" as="geometry" />
@@ -19,11 +34,14 @@
         <mxCell id="nHfjSOK1dLH2ZIQJxXir-4" value="DOG" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry y="720" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="nHfjSOK1dLH2ZIQJxXir-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.65;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="nHfjSOK1dLH2ZIQJxXir-1" target="nHfjSOK1dLH2ZIQJxXir-2">
+        <mxCell id="nHfjSOK1dLH2ZIQJxXir-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.65;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="130" y="130" as="sourcePoint" />
+            <mxPoint x="120" y="339" as="targetPoint" />
             <Array as="points">
+              <mxPoint x="130" y="150" />
               <mxPoint x="180" y="150" />
-              <mxPoint x="180" y="359" />
+              <mxPoint x="180" y="339" />
             </Array>
           </mxGeometry>
         </mxCell>
