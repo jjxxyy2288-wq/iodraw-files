@@ -4,17 +4,17 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="nHfjSOK1dLH2ZIQJxXir-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry y="80" width="120" height="60" as="geometry" />
+        <mxCell id="nHfjSOK1dLH2ZIQJxXir-1" value="管理端" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nHfjSOK1dLH2ZIQJxXir-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry y="280" width="120" height="60" as="geometry" />
+          <mxGeometry y="320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nHfjSOK1dLH2ZIQJxXir-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry y="480" width="120" height="60" as="geometry" />
+          <mxGeometry y="520" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nHfjSOK1dLH2ZIQJxXir-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry y="640" width="120" height="60" as="geometry" />
+          <mxGeometry y="720" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
