@@ -1,34 +1,34 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="fRcTNqVoCslBvWNbvpCP">
-    <mxGraphModel dx="2261" dy="836" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="836" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="nHfjSOK1dLH2ZIQJxXir-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1" source="nHfjSOK1dLH2ZIQJxXir-1" target="nHfjSOK1dLH2ZIQJxXir-3">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="140" y="150" />
-              <mxPoint x="140" y="565" />
+              <mxPoint x="294" y="150" />
+              <mxPoint x="294" y="565" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="nHfjSOK1dLH2ZIQJxXir-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;fillColor=#e1d5e7;strokeColor=#9673a6;" edge="1" parent="1" source="nHfjSOK1dLH2ZIQJxXir-1" target="nHfjSOK1dLH2ZIQJxXir-4">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="360" y="760" as="targetPoint" />
+            <mxPoint x="514" y="760" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="520" y="150" />
-              <mxPoint x="520" y="765" />
+              <mxPoint x="674" y="150" />
+              <mxPoint x="674" y="765" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="nHfjSOK1dLH2ZIQJxXir-1" value="管理端" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="10" y="120" width="120" height="60" as="geometry" />
+          <mxGeometry x="164" y="120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nHfjSOK1dLH2ZIQJxXir-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1" source="nHfjSOK1dLH2ZIQJxXir-2" target="nHfjSOK1dLH2ZIQJxXir-3">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="140" y="350" />
-              <mxPoint x="140" y="565" />
+              <mxPoint x="294" y="350" />
+              <mxPoint x="294" y="565" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -39,10 +39,10 @@
         </mxCell>
         <mxCell id="nHfjSOK1dLH2ZIQJxXir-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;fillColor=#e1d5e7;strokeColor=#9673a6;" edge="1" parent="1" source="nHfjSOK1dLH2ZIQJxXir-2" target="nHfjSOK1dLH2ZIQJxXir-4">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="450" y="770" as="targetPoint" />
+            <mxPoint x="604" y="770" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="440" y="350" />
-              <mxPoint x="440" y="765" />
+              <mxPoint x="594" y="350" />
+              <mxPoint x="594" y="765" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -52,7 +52,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="nHfjSOK1dLH2ZIQJxXir-2" value="用户端" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry y="320" width="120" height="60" as="geometry" />
+          <mxGeometry x="154" y="320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nHfjSOK1dLH2ZIQJxXir-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" edge="1" parent="1" source="nHfjSOK1dLH2ZIQJxXir-3" target="nHfjSOK1dLH2ZIQJxXir-4">
           <mxGeometry relative="1" as="geometry" />
@@ -62,25 +62,25 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="nHfjSOK1dLH2ZIQJxXir-16" value="通过双串口兜底方式保证不会因为一个松动导致整个SDK调用链路不可用" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="nHfjSOK1dLH2ZIQJxXir-14">
+        <mxCell id="nHfjSOK1dLH2ZIQJxXir-16" value="&lt;font color=&quot;#ff9933&quot;&gt;通过双串口兜底方式保证不会因为一个松动导致整个SDK调用链路不可用&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="nHfjSOK1dLH2ZIQJxXir-14">
           <mxGeometry x="-0.4429" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="nHfjSOK1dLH2ZIQJxXir-3" value="ESP32" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry y="520" width="120" height="60" as="geometry" />
+          <mxGeometry x="154" y="520" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nHfjSOK1dLH2ZIQJxXir-4" value="DOG" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry y="720" width="120" height="60" as="geometry" />
+          <mxGeometry x="154" y="720" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nHfjSOK1dLH2ZIQJxXir-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#d5e8d4;strokeColor=#82b366;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="nHfjSOK1dLH2ZIQJxXir-1" target="nHfjSOK1dLH2ZIQJxXir-2">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="150" y="130" as="sourcePoint" />
-            <mxPoint x="140" y="339" as="targetPoint" />
+            <mxPoint x="304" y="130" as="sourcePoint" />
+            <mxPoint x="294" y="339" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="130" y="150" />
-              <mxPoint x="230" y="150" />
-              <mxPoint x="230" y="339" />
+              <mxPoint x="284" y="150" />
+              <mxPoint x="384" y="150" />
+              <mxPoint x="384" y="339" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -90,7 +90,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="nHfjSOK1dLH2ZIQJxXir-7" value="&lt;font style=&quot;font-size: 21px;&quot;&gt;整体仍然沿用之前的UDP方案&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="30" y="70" width="300" height="40" as="geometry" />
+          <mxGeometry x="184" y="70" width="300" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
