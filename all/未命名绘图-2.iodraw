@@ -57,18 +57,18 @@
         <mxCell id="nHfjSOK1dLH2ZIQJxXir-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" edge="1" parent="1" source="nHfjSOK1dLH2ZIQJxXir-3" target="nHfjSOK1dLH2ZIQJxXir-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nHfjSOK1dLH2ZIQJxXir-15" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="nHfjSOK1dLH2ZIQJxXir-14">
-          <mxGeometry x="-0.4571" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="nHfjSOK1dLH2ZIQJxXir-16" value="&lt;font color=&quot;#ff9933&quot;&gt;通过双串口兜底方式保证不会因为一个松动导致整个SDK调用链路不可用&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="nHfjSOK1dLH2ZIQJxXir-14">
           <mxGeometry x="-0.4429" relative="1" as="geometry">
-            <mxPoint y="31" as="offset" />
+            <mxPoint x="10" y="31" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="nHfjSOK1dLH2ZIQJxXir-3" value="ESP32" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="154" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nHfjSOK1dLH2ZIQJxXir-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nHfjSOK1dLH2ZIQJxXir-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="30" y="100" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="nHfjSOK1dLH2ZIQJxXir-4" value="DOG" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="154" y="720" width="120" height="60" as="geometry" />
