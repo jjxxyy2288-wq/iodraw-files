@@ -37,9 +37,18 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="nHfjSOK1dLH2ZIQJxXir-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nHfjSOK1dLH2ZIQJxXir-2">
+        <mxCell id="nHfjSOK1dLH2ZIQJxXir-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="nHfjSOK1dLH2ZIQJxXir-2" target="nHfjSOK1dLH2ZIQJxXir-4">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="450" y="770" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="440" y="350" />
+              <mxPoint x="440" y="765" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nHfjSOK1dLH2ZIQJxXir-13" value="兜底方案 使用DOG官方udp开放指令进行控制" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="nHfjSOK1dLH2ZIQJxXir-12">
+          <mxGeometry x="0.6948" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="nHfjSOK1dLH2ZIQJxXir-2" value="用户端" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
