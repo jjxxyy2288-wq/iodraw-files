@@ -24,13 +24,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="nHfjSOK1dLH2ZIQJxXir-6" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="nHfjSOK1dLH2ZIQJxXir-5">
+        <mxCell id="nHfjSOK1dLH2ZIQJxXir-6" value="8083信息同步端口" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="nHfjSOK1dLH2ZIQJxXir-5">
           <mxGeometry x="-0.1034" y="-3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="nHfjSOK1dLH2ZIQJxXir-7" value="&lt;font style=&quot;font-size: 21px;&quot;&gt;整体仍然沿用之前的UDP方案&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="10" y="43" width="300" height="40" as="geometry" />
+          <mxGeometry x="30" y="70" width="300" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
